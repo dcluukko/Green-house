@@ -1,0 +1,4 @@
+/Users/Guest/Desktop/Green-House/obj/Debug/netcoreapp2.2/GreenHouse.csprojAssemblyReference.cache
+/Users/Guest/Desktop/Green-House/obj/Debug/netcoreapp2.2/GreenHouse.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/Green-House/obj/Debug/netcoreapp2.2/GreenHouse.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/Green-House/obj/Debug/netcoreapp2.2/GreenHouse.AssemblyInfo.cs

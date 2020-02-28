@@ -1,0 +1,11 @@
+/Users/Guest/Desktop/Green-House/obj/Debug/netcoreapp2.2/Green-House.csprojAssemblyReference.cache
+/Users/Guest/Desktop/Green-House/obj/Debug/netcoreapp2.2/Green-House.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/Green-House/obj/Debug/netcoreapp2.2/Green-House.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/Green-House/obj/Debug/netcoreapp2.2/Green-House.AssemblyInfo.cs
+/Users/Guest/Desktop/Green-House/bin/Debug/netcoreapp2.2/Green-House.deps.json
+/Users/Guest/Desktop/Green-House/bin/Debug/netcoreapp2.2/Green-House.runtimeconfig.json
+/Users/Guest/Desktop/Green-House/bin/Debug/netcoreapp2.2/Green-House.runtimeconfig.dev.json
+/Users/Guest/Desktop/Green-House/bin/Debug/netcoreapp2.2/Green-House.dll
+/Users/Guest/Desktop/Green-House/bin/Debug/netcoreapp2.2/Green-House.pdb
+/Users/Guest/Desktop/Green-House/obj/Debug/netcoreapp2.2/Green-House.dll
+/Users/Guest/Desktop/Green-House/obj/Debug/netcoreapp2.2/Green-House.pdb
